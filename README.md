@@ -1,5 +1,7 @@
 # Programowanie komputerów w języku C++: przykłady z laboratoriów
 
+> 📌 **Przed rozpoczęciem zajęć przeczytaj [Regulamin zajęć](regulamin.md).**
+
 To repozytorium zawiera **przykłady kodu prezentowane i omawiane podczas zajęć laboratoryjnych** z programowania w języku C++.
 
 Repozytorium służy przede wszystkim do:
