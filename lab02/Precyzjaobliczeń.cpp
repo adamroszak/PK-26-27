@@ -50,33 +50,7 @@ int main (){
         cout << "Różnica: "<<a-b<< endl;
         cout << "Iloczyn: "<<a*b<< endl;
         cout << "Iloraz: "<<a/b<<endl;
-
-
-
-
-
-
-
-
-
-
     }
     else {cout << "Niepoprawny wybór";}
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     return 0;
 }
